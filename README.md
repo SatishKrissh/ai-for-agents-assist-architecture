@@ -46,6 +46,8 @@ Customer Call → Voice Infrastructure → Streaming Layer → Speech-to-Text �
   "summary": "Customer called regarding billing clarification.",
   "intent": "Billing Support",
   "sentiment": "Neutral",
+  "user score": 6,
+  "agent score": 6,
   "next_best_action": "Provide invoice explanation"
 }
 ```
