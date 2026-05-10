@@ -32,6 +32,7 @@ Customer Call → Voice Infrastructure → Streaming Layer → Speech-to-Text �
 - Media Streaming
 - Cloud Processing
 - Speech Recognition
+- STT 
 - LLM-based Summarization
 - REST APIs
 - Real-time UI systems
